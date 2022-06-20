@@ -2,10 +2,7 @@
 
 ## Getting Started
 
-<<<<<<< HEAD
 First, run the development server:
-
-```bash
 ## 🔨 Features
 - Dashboard
 - Modal to register transactions
@@ -28,4 +25,3 @@ I'm using MirageJS as a fake api, so I can't deploy yet
 - ReactJS
 - styled-components
 - MirageJS
->>>>>>> 42becd96a72a11dfb8da1fd4375d8161d30f3d0c
